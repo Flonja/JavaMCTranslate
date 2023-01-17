@@ -1,0 +1,3 @@
+[submodule "src/main/resources/PyMCTranslate"]
+	path = src/main/resources/PyMCTranslate
+	url = https://github.com/gentlegiantJGC/PyMCTranslate
